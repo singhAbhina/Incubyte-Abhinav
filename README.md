@@ -10,6 +10,9 @@ Live Demo 👉 [Sweet Shop on Vercel](https://sweet-ten.vercel.app/)
 
 ---
 
+<img width="1130" height="863" alt="Screenshot 2025-12-14 173703" src="https://github.com/user-attachments/assets/b22fe971-9792-4d54-aa16-59114ec063f0" />
+
+
 ## 📖 Project Overview
 This application is a small e-commerce-style Sweet Shop.
 
